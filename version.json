@@ -1,16 +1,16 @@
 {
-  "versionCode": 1,
-  "versionName": "Alpha Preview v1.0",
+  "versionCode": 2,
+  "versionName": "Alpha Preview v1.1",
   "isForceUpdate": false,
-  "title": "👑 KRONOS IPTV ALPHA PREVIEW v1.0",
+  "title": "👑 KRONOS IPTV ALPHA PREVIEW v1.1",
   "changelog": [
-    "🚀 Lanzamiento oficial Alpha Preview v1.0",
-    "⚡ Arquitectura Titanium ultra-fluida 60 FPS para TV y Móvil",
-    "🎬 Tráilers oficiales integrados in-app para Películas y Series",
-    "🔄 Zapping de canales por categorías y Multi-View Dual Screen",
-    "🛡️ Menús OSD completos, control de audios, pistas y aspect ratio 16:9",
-    "👑 Sistema de actualizaciones OTA automáticas integrado"
+    "⚡ Eliminado el temblor y rebote de pantalla al navegar a 60 FPS",
+    "🛡️ Optimización de memoria RAM: Cero congelamientos en navegación rápida",
+    "🎬 Nuevo Slider / Carrusel de Estrenos en Home con navegación D-Pad",
+    "✖️ Botón de eliminación en la sección Continuar Viendo",
+    "📺 TV en Vivo: 1 clic para previsualizar, 2 clics para Pantalla Completa",
+    "🍿 Botón de tráiler oficial cinematográfico in-app"
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.0/kronos-alpha-preview-v1.0.apk",
-  "releaseDate": "2026-08-28"
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.1/kronos-alpha-preview-v1.1.apk",
+  "releaseDate": "2026-08-31"
 }
