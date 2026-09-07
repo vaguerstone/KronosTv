@@ -1,16 +1,16 @@
 {
-  "versionCode": 2,
-  "versionName": "Alpha Preview v1.1",
+  "versionCode": 3,
+  "versionName": "Alpha Preview v1.2",
   "isForceUpdate": false,
-  "title": "👑 KRONOS IPTV ALPHA PREVIEW v1.1",
+  "title": "👑 KRONOS IPTV ALPHA PREVIEW v1.2",
   "changelog": [
-    "⚡ Eliminado el temblor y rebote de pantalla al navegar a 60 FPS",
-    "🛡️ Optimización de memoria RAM: Cero congelamientos en navegación rápida",
-    "🎬 Nuevo Slider / Carrusel de Estrenos en Home con navegación D-Pad",
-    "✖️ Botón de eliminación en la sección Continuar Viendo",
-    "📺 TV en Vivo: 1 clic para previsualizar, 2 clics para Pantalla Completa",
-    "🍿 Botón de tráiler oficial cinematográfico in-app"
+    "🏅 Verificador Real de Calidad (Detección de 4K UHD, 1080p 60FPS y códec nativo HEVC)",
+    "📐 Modo Pantalla Completa Inteligente (Original, Cine Panavisión 2.39:1, Zoom y Estirado)",
+    "🔄 Auto-Fallback de Canales Caídos (Reconexión automática a canales espejo en vivo)",
+    "⚡ Buscador Reactivo Instantáneo en Tiempo Real (SQLite Indexado a <5ms)",
+    "🎙️ Búsqueda por Voz Nativa con micrófono de control remoto y móvil",
+    "👥 Gestor Multi-Cuenta Rápido para alternar proveedores en 1 clic"
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.1/kronos-alpha-preview-v1.1.apk",
-  "releaseDate": "2026-08-31"
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.2/kronos-alpha-preview-v1.2.apk",
+  "releaseDate": "2026-09-07"
 }
