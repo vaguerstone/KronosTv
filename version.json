@@ -1,17 +1,16 @@
 {
-  "versionCode": 6,
-  "versionName": "v1.5 Alpha",
+  "versionCode": 7,
+  "versionName": "v1.6 Alpha",
   "isForceUpdate": false,
-  "title": "👑 KRONOS IPTV v1.5 ALPHA",
+  "title": "👑 KRONOS IPTV v1.6 ALPHA",
   "changelog": [
-    "📺 Rejilla EPG Interactiva Completa (TV Grid estilo TiviMate y Cablevisión)",
-    "⏰ Eje de Tiempo Continuo de 30 minutos con Sincronización Horizontal Universal",
-    "🎬 Panel Superior Cinematográfico con Sinopsis, Horarios y Sintonización Instantánea",
-    "🕹️ Navegación 10-Foot Fluida con Control Remoto D-Pad para Smart TV y Fire TV",
-    "📱 Modo Rejilla y Guía TV Rápida para Dispositivos Móviles y Tablets",
-    "🔒 Bóveda de Credenciales con Triple Persistencia Indestructible (Self-Healing)",
-    "🏷️ Sincronización Automática Total de la Versión Oficial en Todo el Sistema"
+    "🚀 Verificación de Actualizaciones Automática al Iniciar (Teléfono y Android TV)",
+    "📺 Modal de Sincronización Inicial de Canales y Películas en Primera Ejecución en TV",
+    "🌐 Reintentos de Búsqueda Resilientes con Múltiples URLs de Servidor OTA",
+    "📺 Rejilla EPG Interactiva Completa (TV Grid estilo TiviMate)",
+    "🎬 Panel Superior Cinematográfico con Sinopsis y Sintonización Instantánea",
+    "🔒 Bóveda de Credenciales con Triple Persistencia Indestructible (Self-Healing)"
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.5/kronos-iptv-v1.5-alpha.apk",
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.6/kronos-iptv-v1.6-alpha.apk",
   "releaseDate": "2026-09-08"
 }
