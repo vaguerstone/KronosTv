@@ -1,18 +1,17 @@
 {
-  "versionCode": 5,
-  "versionName": "v1.4 Alpha",
+  "versionCode": 6,
+  "versionName": "v1.5 Alpha",
   "isForceUpdate": false,
-  "title": "👑 KRONOS IPTV v1.4 ALPHA",
+  "title": "👑 KRONOS IPTV v1.5 ALPHA",
   "changelog": [
-    "🔒 Bóveda de Credenciales con Triple Persistencia (DataStore + SharedPreferences + Room)",
-    "🔄 Auto-reparación y Cero Pérdida de Sesión al Actualizar o Reiniciar el Dispositivo",
-    "🛡️ Motor Criptográfico AES-256 Estable V2 Resiliente a Migraciones y Actualizaciones",
-    "🏷️ Sincronización Automática Total de la Versión Oficial en Todo el Sistema y Pantallas",
-    "⏭️ Precarga Inteligente de Siguiente Episodio (Zero-Wait Next Episode al estilo Netflix)",
-    "🎛️ Selector Dinámico de Audio Dual y Subtítulos en pantalla para Smart TV",
-    "📶 Test de Velocidad Directo hacia tu Servidor IPTV (Medición real de Ping y Descarga)",
-    "🍃 Modo Bajo Consumo de Datos para conexiones lentas, inestables y redes 4G/5G"
+    "📺 Rejilla EPG Interactiva Completa (TV Grid estilo TiviMate y Cablevisión)",
+    "⏰ Eje de Tiempo Continuo de 30 minutos con Sincronización Horizontal Universal",
+    "🎬 Panel Superior Cinematográfico con Sinopsis, Horarios y Sintonización Instantánea",
+    "🕹️ Navegación 10-Foot Fluida con Control Remoto D-Pad para Smart TV y Fire TV",
+    "📱 Modo Rejilla y Guía TV Rápida para Dispositivos Móviles y Tablets",
+    "🔒 Bóveda de Credenciales con Triple Persistencia Indestructible (Self-Healing)",
+    "🏷️ Sincronización Automática Total de la Versión Oficial en Todo el Sistema"
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.4/kronos-iptv-v1.4-alpha.apk",
-  "releaseDate": "2026-09-07"
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.5/kronos-iptv-v1.5-alpha.apk",
+  "releaseDate": "2026-09-08"
 }
