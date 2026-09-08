@@ -1,16 +1,16 @@
 {
-  "versionCode": 8,
-  "versionName": "v1.7 Alpha",
+  "versionCode": 9,
+  "versionName": "v1.8 Alpha",
   "isForceUpdate": false,
-  "title": "👑 KRONOS IPTV v1.7 ALPHA",
+  "title": "👑 KRONOS IPTV v1.8 ALPHA",
   "changelog": [
-    "⚡ Sincronización Inteligente Cada 24h (Apertura instantánea en 0.2s sin re-sincronizaciones molestas)",
-    "🔤 Estudio de Subtítulos VIP en Reproductor (Tamaño regulable, Colores Oro/Blanco/Cian/Verde, Fondos)",
-    "📡 Soporte para Google Cast, Smart View y Web Video Caster",
-    "🎠 Efecto 3D Cover-Flow & Tilt Rotativo en Carátulas de Películas para TV y Móvil",
-    "🚀 Comprobación Automática Global de Actualizaciones OTA al Iniciar",
-    "📺 Modales de Sincronización Inicial con Conteo de Contenido en Android TV"
+    "✨ Gestor Multicuenta IPTV 1-Clic: Cambia de servidor y proveedor al instante en Móvil y Smart TV",
+    "⚡ Cero Parpadeos: Eliminación total del modal de sincronización residual al navegar entre secciones y volver al Home",
+    "🛡️ Detección y migración automática de tu cuenta activa al almacén seguro Room",
+    "📺 Botón exclusivo de administración multicuenta adaptado para control remoto D-Pad en Android TV",
+    "🎨 Diseño Cinemático Obsidian & Oro Imperial con físicas de resorte en todo el sistema",
+    "📡 Soporte Google Cast, Web Video Caster, Subtítulos Personalizados y MultiView 4-Pantallas"
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.7/kronos-iptv-v1.7-alpha.apk",
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.8/kronos-iptv-v1.8-alpha.apk",
   "releaseDate": "2026-09-08"
 }
