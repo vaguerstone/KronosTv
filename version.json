@@ -1,16 +1,17 @@
 {
-  "versionCode": 9,
-  "versionName": "v1.8 Alpha",
+  "versionCode": 10,
+  "versionName": "v1.9 Cinema Gold",
   "isForceUpdate": false,
-  "title": "👑 KRONOS IPTV v1.8 ALPHA",
+  "title": "👑 KRONOS IPTV v1.9 CINEMA GOLD",
   "changelog": [
-    "✨ Gestor Multicuenta IPTV 1-Clic: Cambia de servidor y proveedor al instante en Móvil y Smart TV",
-    "⚡ Cero Parpadeos: Eliminación total del modal de sincronización residual al navegar entre secciones y volver al Home",
-    "🛡️ Detección y migración automática de tu cuenta activa al almacén seguro Room",
-    "📺 Botón exclusivo de administración multicuenta adaptado para control remoto D-Pad en Android TV",
-    "🎨 Diseño Cinemático Obsidian & Oro Imperial con físicas de resorte en todo el sistema",
-    "📡 Soporte Google Cast, Web Video Caster, Subtítulos Personalizados y MultiView 4-Pantallas"
+    "🎬 Reproductores Rediseñados: Scrims cinematográficos superior e inferior no invasivos (centro 100% transparente)",
+    "✨ Animaciones Fade + Slide: Controles coordinados que aparecen suavemente y se auto-ocultan tras inactividad",
+    "⏱️ Barra de Progreso Premium: Scrubber dorado Kronos con cálculo automático de tiempo restante (-MM:SS)",
+    "🪟 Picture in Picture Elevado: Bordes de Oro Imperial, elevación de 16.dp, sombra volumétrica y controles en cápsula obsidian",
+    "📺 Android TV 10-Foot UI: Sistema de foco mejorado con escala segura (1.05f), halo dorado y cero cortes visuales (clipping)",
+    "⚡ Optimización Extrema: Cero recomposiciones innecesarias mediante reciclaje de claves estables y eliminación de memory leaks",
+    "🛡️ Detección y prevención de crashes: Safe-calls en metadatos EPG y flujo robusto en pantallas sin conexión"
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/alpha-v1.8/kronos-iptv-v1.8-alpha.apk",
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v1.9/KronosIPTV_v1.9_CinemaGold.apk",
   "releaseDate": "2026-09-08"
 }
