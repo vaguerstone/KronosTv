@@ -1,17 +1,18 @@
 {
-  "versionCode": 10,
-  "versionName": "v1.9 Cinema Gold",
+  "versionCode": 11,
+  "versionName": "v2.0 Titanium Suite",
   "isForceUpdate": false,
-  "title": "👑 KRONOS IPTV v1.9 CINEMA GOLD",
+  "title": "👑 KRONOS IPTV v2.0 TITANIUM SUITE",
   "changelog": [
-    "🎬 Reproductores Rediseñados: Scrims cinematográficos superior e inferior no invasivos (centro 100% transparente)",
-    "✨ Animaciones Fade + Slide: Controles coordinados que aparecen suavemente y se auto-ocultan tras inactividad",
-    "⏱️ Barra de Progreso Premium: Scrubber dorado Kronos con cálculo automático de tiempo restante (-MM:SS)",
-    "🪟 Picture in Picture Elevado: Bordes de Oro Imperial, elevación de 16.dp, sombra volumétrica y controles en cápsula obsidian",
-    "📺 Android TV 10-Foot UI: Sistema de foco mejorado con escala segura (1.05f), halo dorado y cero cortes visuales (clipping)",
-    "⚡ Optimización Extrema: Cero recomposiciones innecesarias mediante reciclaje de claves estables y eliminación de memory leaks",
-    "🛡️ Detección y prevención de crashes: Safe-calls en metadatos EPG y flujo robusto en pantallas sin conexión"
+    "🌐 Filtro de Idiomas por Perfil: Elige qué idiomas ver en tu catálogo (Latino, Castellano, Dual, VOSE, Inglés)",
+    "🚫 Filtro Anti-Estrenos CAM: Opción para ocultar grabaciones de cine de baja calidad y mantener catálogo 100% HD/4K",
+    "🎧 Selector de Pista Automático: ExoPlayer autoselecciona la pista de audio en tu idioma sin tocar el control",
+    "🌙 Compresor Nocturno (Night Mode): Atenúa estruendos y explosiones, destacando diálogos para ver TV de noche",
+    "⚡ Búfer Inteligente Configurable: Modos Ultra Rápido (Zapping 2s), Equilibrado y Anti-Lag para Wi-Fi débil",
+    "🙈 Bloqueo Inteligente de Spoilers: Oculta miniaturas y descripciones de episodios no vistos en series",
+    "💾 Copia de Seguridad y Restauración: Exporta e importa tus perfiles y favoritos en formato JSON",
+    "📺 Fix Definitivo Android TV: Compatibilidad total con Theme.AppCompat y estabilización de llamadas Compose en TV"
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v1.9/KronosIPTV_v1.9_CinemaGold.apk",
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v2.0/KronosIPTV_v2.0_TitaniumSuite.apk",
   "releaseDate": "2026-09-08"
 }
