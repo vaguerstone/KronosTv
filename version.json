@@ -1,9 +1,12 @@
 {
-  "versionCode": 13,
-  "versionName": "v2.2 Titanium Suite",
+  "versionCode": 14,
+  "versionName": "v2.3 Titanium Suite",
   "isForceUpdate": false,
-  "title": "👑 KRONOS IPTV v2.2 TITANIUM SUITE",
+  "title": "👑 KRONOS IPTV v2.3 TITANIUM SUITE",
   "changelog": [
+    "🛡️ Auditoría Técnica 100% Limpia: Erradicación total de force-unwraps (0 crashes por NullPointerException)",
+    "🧹 Fuga de Memoria en WebView Solucionada: Liberación y destrucción completa de instancias en modales de tráiler",
+    "⚡ Cero ANRs en Reproductor: Inicialización no bloqueante sin runBlocking en PlayerActivity para TV y Móvil",
     "🗑️ Fix Continuar Viendo: Eliminación instantánea y sincronizada en Room DB tanto en Móvil como en TV",
     "🎬 Botones de Detalle de Película Rediseñados: Distribución ergonómica sin textos amontonados (Play full width + Favorito/Tráiler 50/50)",
     "▶️ Reproductor de Tráilers Optimizado: Extracción robusta de ID de YouTube, embed sin restricciones y botón de apertura externa directa",
@@ -16,8 +19,11 @@
     "🎧 Selector de Pista Automático: ExoPlayer autoselecciona la pista de audio en tu idioma preferido",
     "🌙 Compresor Nocturno (Night Mode): Atenúa estruendos y resalta diálogos para ver TV de noche",
     "⚡ Búfer Inteligente Configurable: Modos Ultra Rápido (Zapping), Equilibrado y Anti-Lag para Wi-Fi débil",
-    "🙈 Bloqueo Inteligente de Spoilers: Oculta miniaturas y descripciones de episodios no vistos en series"
+    "🙈 Bloqueo Inteligente de Spoilers: Oculta miniaturas y descripciones de episodios no vistos en series",
+    "✨ Foco Limpio en Android TV: Eliminación del recuadro sombreado gris/negro en tarjetas y botones con borde dorado suave",
+    "🎛️ Menú Ajustes TV Desacoplado: Distribución ergonómica de botones de cuenta y chips de idiomas sin solapamiento",
+    "🔍 Buscador TV 100% Funcional: Apertura directa del teclado nativo y teclado virtual en pantalla con control remoto D-Pad"
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v2.2/KronosIPTV_v2.2_TitaniumSuite.apk",
-  "releaseDate": "2026-09-08"
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v2.3/KronosIPTV_v2.3_TitaniumSuite.apk",
+  "releaseDate": "2026-09-11"
 }
