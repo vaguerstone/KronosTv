@@ -1,21 +1,17 @@
 {
-  "versionCode": 16,
-  "versionName": "v3.0 Cyber Space Suite",
+  "versionCode": 17,
+  "versionName": "v3.1 Cyber Space Suite",
   "isForceUpdate": false,
-  "title": "KRONOS IPTV v3.0 CYBER SPACE SUITE",
+  "title": "KRONOS IPTV v3.1 CYBER SPACE SUITE",
   "changelog": [
-    "Suite Visual Cyber Space Movil: Rediseño completo con paleta Void Black, Space Navy, Electric Blue (#0066FF) y violeta cinematico",
-    "Isotipo Geometrico 'K' 3D: Nuevo logotipo cosmico con resplandor neon holografico",
-    "Fluid Spring NavBar: Capsula flotante con fisica de resortes y navegacion protegida contra barras del sistema",
-    "Cinematica Mobile en Peliculas y Series: Fichas de detalle inmersivas, selector de temporadas/episodios y rejillas responsivas adaptativas",
-    "Live TV Movil Zapping Instantaneo: Drawer rapido de canales, badge EN VIVO con pulso cosmico y ficha tecnica",
-    "Busqueda Universal Cosmica: Filtros dinamicos con badges numericos y sugerencias instantaneas",
-    "Favoritos Renovados: Rejilla adaptativa y acceso rapido por pestañas con un solo toque",
-    "Ajustes Movil de Alta Gama: Gestion de cuenta, limpiador de cache, speed test interactivo, backup/restore y OTA integrado",
-    "Reproductores VOD y Live TV Cyber Space: HUD gestual de brillo y volumen, seek preview y controles estilizados",
-    "Mini-Player PiP y Multi-View Dual: Ventana flotante interactiva y visualizacion de 2 canales simultaneos con seleccion de audio",
-    "Android TV 100% Intacto: Preservacion absoluta de la interfaz Titanium Gold, D-Pad remoto y reproductores Leanback"
+    "Multi-View TV 50/50 Fullscreen Real: Pantalla dividida mitad y mitad exacta sin franjas negras ni letterbox con zoom cinematografico completo.",
+    "Control Remoto Intuitivo en Multi-View: Cambio directo de canal al presionar OK/Enter sobre cualquier mitad y conmutacion automatica de audio con D-Pad Izquierda/Derecha.",
+    "Top 10 Peliculas Reubicado: Seccion Top 10 mas valoradas posicionada en la zona superior de Home TV para visibilidad inmediata.",
+    "Erradicacion de Saltos y Temblores en Peliculas y Series: Foco D-Pad unificado a nivel de tarjeta completa, eliminando desplazamientos metricos bruscos.",
+    "Titulos Siempre Visibles en TV: Altura fija a 2 lineas para todas las tarjetas poster y contentPadding inferior de 80dp en todas las grillas de TV, evitando que los titulos queden cortados u ocultos al bajar.",
+    "Buscador Live TV con Teclado Nativo: Apertura inmediata del teclado Android TV Leanback IME al presionar OK sobre la barra de busqueda.",
+    "Correccion de Recortes Globales: Margenes y scroll inferior defensivo en Canales en Vivo, Busqueda y Ajustes para televisores 1080p y 4K."
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v3.0/KronosIPTV_v3.0_CyberSpaceSuite.apk",
-  "releaseDate": "2026-09-14"
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v3.1/KronosIPTV_v3.1_CyberSpaceSuite.apk",
+  "releaseDate": "2026-09-17"
 }
