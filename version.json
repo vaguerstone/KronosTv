@@ -1,17 +1,16 @@
 {
-  "versionCode": 17,
-  "versionName": "v3.1 Cyber Space Suite",
+  "versionCode": 18,
+  "versionName": "v3.2 Cyber Space Suite",
   "isForceUpdate": false,
-  "title": "KRONOS IPTV v3.1 CYBER SPACE SUITE",
+  "title": "KRONOS IPTV v3.2 CYBER SPACE SUITE",
   "changelog": [
-    "Multi-View TV 50/50 Fullscreen Real: Pantalla dividida mitad y mitad exacta sin franjas negras ni letterbox con zoom cinematografico completo.",
-    "Control Remoto Intuitivo en Multi-View: Cambio directo de canal al presionar OK/Enter sobre cualquier mitad y conmutacion automatica de audio con D-Pad Izquierda/Derecha.",
-    "Top 10 Peliculas Reubicado: Seccion Top 10 mas valoradas posicionada en la zona superior de Home TV para visibilidad inmediata.",
-    "Erradicacion de Saltos y Temblores en Peliculas y Series: Foco D-Pad unificado a nivel de tarjeta completa, eliminando desplazamientos metricos bruscos.",
-    "Titulos Siempre Visibles en TV: Altura fija a 2 lineas para todas las tarjetas poster y contentPadding inferior de 80dp en todas las grillas de TV, evitando que los titulos queden cortados u ocultos al bajar.",
-    "Buscador Live TV con Teclado Nativo: Apertura inmediata del teclado Android TV Leanback IME al presionar OK sobre la barra de busqueda.",
-    "Correccion de Recortes Globales: Margenes y scroll inferior defensivo en Canales en Vivo, Busqueda y Ajustes para televisores 1080p y 4K."
+    "Multi-View 50/50 Horizontal Widescreen: Nueva arquitectura en dos slots horizontales apilados (50% pantalla superior / 50% pantalla inferior), eliminando el desorden y recortes de formato 16:9.",
+    "Pantalla Completa Real en Multi-View: Ocultamiento automatico del menu de navegacion lateral para otorgar el 100% de la pantalla al modo Multi-View, retornando comodamente al pulsar BACK.",
+    "Control y Audio D-Pad Perfeccionado: D-Pad ARRIBA/ABAJO selecciona pantalla y conmuta audio instantaneamente, mientras que OK abre el selector interactivo de canales.",
+    "Eliminacion Total de Recortes en Pantallas TV: Reestructuracion de margenes e insets de ventana (edge-to-edge) en Peliculas, Series, Favoritos, Busqueda y Ajustes, eliminando bandas vacias y sensacion de pantalla achicada.",
+    "Grilla Adaptativa Optimizada (156dp): Las tarjetas se adaptan armoniosamente a pantallas de 32 a 85+ pulgadas sin recortes de bordes laterales ni pie de pagina.",
+    "Ajustes TV Full-Width: Eliminada la restriccion de ancho que dejaba un 4% vacio en la derecha de la pantalla."
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v3.1/KronosIPTV_v3.1_CyberSpaceSuite.apk",
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v3.2/KronosIPTV_v3.2_CyberSpaceSuite.apk",
   "releaseDate": "2026-09-17"
 }
