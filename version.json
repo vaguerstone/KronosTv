@@ -1,16 +1,17 @@
 {
-  "versionCode": 18,
-  "versionName": "v3.2 Cyber Space Suite",
+  "versionCode": 19,
+  "versionName": "v3.3 Cyber Space Suite",
   "isForceUpdate": false,
-  "title": "KRONOS IPTV v3.2 CYBER SPACE SUITE",
+  "title": "KRONOS IPTV v3.3 CYBER SPACE SUITE",
   "changelog": [
-    "Multi-View 50/50 Horizontal Widescreen: Nueva arquitectura en dos slots horizontales apilados (50% pantalla superior / 50% pantalla inferior), eliminando el desorden y recortes de formato 16:9.",
-    "Pantalla Completa Real en Multi-View: Ocultamiento automatico del menu de navegacion lateral para otorgar el 100% de la pantalla al modo Multi-View, retornando comodamente al pulsar BACK.",
-    "Control y Audio D-Pad Perfeccionado: D-Pad ARRIBA/ABAJO selecciona pantalla y conmuta audio instantaneamente, mientras que OK abre el selector interactivo de canales.",
-    "Eliminacion Total de Recortes en Pantallas TV: Reestructuracion de margenes e insets de ventana (edge-to-edge) en Peliculas, Series, Favoritos, Busqueda y Ajustes, eliminando bandas vacias y sensacion de pantalla achicada.",
-    "Grilla Adaptativa Optimizada (156dp): Las tarjetas se adaptan armoniosamente a pantallas de 32 a 85+ pulgadas sin recortes de bordes laterales ni pie de pagina.",
-    "Ajustes TV Full-Width: Eliminada la restriccion de ancho que dejaba un 4% vacio en la derecha de la pantalla."
+    "Multi-View Deportivo 'Modo Estadio Maestro': Pantalla principal al 72% de ancho en 16:9 cinematográfico sin bandas negras para el partido estelar + Pantalla secundaria al 28% con Centro de Control Deportivo y botón de intercambio instantáneo [🔀 TROCAR PANTALLAS].",
+    "Selector de Modo Multi-View Dual 50/50 y Modo Estadio: Alterna fácilmente entre modo estadio maestro y modo dual 50/50 con canales pre-filtrados a eventos deportivos en vivo (ESPN, Fox Sports, DAZN, TUDN, LaLiga).",
+    "Control de Ajuste Zoom vs Fit 16:9: Opción de pantalla completa con relleno adaptativo para eliminar franjas negras en transmisiones de TV.",
+    "Eliminación Total de Temblores y Rebotes: Sustitución de resortes oscilantes por animaciones deterministas de 140ms e inmutabilidad de nodos de dibujo en el motor de foco D-Pad.",
+    "Tarjetas VOD Brillantes y Títulos 100% Legibles: Eliminación de velos oscuros sobre pósters de películas, incremento de tipografía a 13sp negrita y títulos incorporados en el Top 10 con contraste neón.",
+    "Metadatos Reales de Películas en Home y Catálogo: Sinopsis real, año de estreno, duración en minutos, géneros cinematográficos y tráileres oficiales cargados directamente de la cuenta IPTV.",
+    "Alineación Panorámica Edge-to-Edge: Corrección de márgenes y paddings en Películas, Series y Favoritos, con 80dp inferior para evitar recortes al final del catálogo."
   ],
-  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v3.2/KronosIPTV_v3.2_CyberSpaceSuite.apk",
+  "apkUrl": "https://github.com/vaguerstone/KronosTv/releases/download/v3.3/KronosIPTV_v3.3_CyberSpaceSuite.apk",
   "releaseDate": "2026-09-17"
 }
